@@ -34,5 +34,6 @@ Tahap terakhir adalah evaluasi. Performa model diukur pada data uji menggunakan 
 ## Evaluasi
 | Metric | Value |
 |--------|-------|
-| MAE    | [isi nilai] |
-| RMSE   | [isi nilai] |
+| MAE    | 0.0933 |
+| RMSE   | 0.1294 |
+| R2     | 0.3695 |
