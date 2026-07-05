@@ -3,8 +3,7 @@ Model regresi berbasis neural network untuk memprediksi produktivitas pekerja ga
 
 ## Latar Belakang
 Pabrik garmen mencatat produktivitas secara manual di tiap tim dan shift. Proyek ini membangun model regresi yang memperkirakan produktivitas aktual dari input operasional. Model ini membantu manajer mengidentifikasi tim dengan performa rendah lebih awal.
-Dataset
-Dataset yang digunakan adalah Productivity Prediction of Garment Employees dari UCI Machine Learning Repository. Dataset ini berisi data produktivitas pekerja garmen di Bangladesh, dengan fitur berikut:
+Dataset yang digunakan adalah <a href="https://archive.ics.uci.edu/dataset/597/productivity+prediction+of+garment+employees">Productivity Prediction of Garment Employees</a> dari UCI Machine Learning Repository. Dataset ini berisi data produktivitas pekerja garmen di Bangladesh, dengan fitur berikut:
 <ul>
   <li>date</li>
   <li>quarter</li>
